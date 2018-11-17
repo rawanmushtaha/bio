@@ -1,0 +1,122 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    margin: auto;
+    color: #ffffff;
+}
+
+
+.left-side{
+    float: left;
+    background-color: black;
+    width: 300px;
+    height: 100%;
+    position: fixed;
+
+}
+.myPhoto{
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    height: 150px;
+    width: 150px;
+    margin-left: 62px;
+    margin-top: 23px;
+
+}
+.name{
+    text-align: center;
+}
+.department{
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.icon a i{
+    color: #ef5e51;
+    font-size: 30px;
+    padding: 19px;
+}
+
+nav ul li {
+    padding: 8px 90px;
+    border-left: 5px solid #ef5e51;
+    margin: 2px 0;
+    text-align: center;
+}
+
+.skills li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 22px;
+    font-family: sans-serif;
+
+}
+.parWhyMe{
+    color: black;
+    text-align: initial;
+}
+
+#why-me{
+    padding: 50px 100px;
+    margin-left: 243px;
+    font-size: 20px;
+    color: #000;
+}
+#why-me h2{
+    margin-bottom: 11px;
+}
+#skill{
+    margin-left: 359px;
+    color: #000;
+}
+.skill{
+    margin-top: 20px;
+}
+
+#skill ul li{
+    color: #083fd8;
+    font-size: 20px;
+    padding-top: 5px;
+}
+#protofolio{
+    margin-left: 350px;
+    color: black;
+}
+#protofolio h2{
+    margin-top: 30px;
+    margin-bottom: 32px;
+    text-align: center;
+    font-size: 30px;
+}
+.photoportfolio{
+    height: 219px;
+    width: 300px;
+    border: 2px solid #3b80a0;
+    margin-right: 10px;
+    margin-bottom: 30px;
+
+}
+
+.photoportfolio:hover{
+    box-shadow: 0px -1px 4px 1px ;
+}
+#contact{
+    margin-left: 350px;
+    color: black;
+    text-align: center;
+    font-size: 21px;
+    margin-top: 26px;
+    margin-bottom: 20px;
+}
+
+.icon2 li i{
+    color: #ef5e51;
+    font-size: 24px;
+    padding-right: 17px;
+    padding-top: 10px;
+}
